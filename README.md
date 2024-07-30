@@ -1,5 +1,2 @@
 # Discord-Cleaner
-Discordをきれいに掃除するためのツールです
-・サーバー
-・フレンド
-・認証済みBot
+Discordをきれいに掃除するためのツールです。
